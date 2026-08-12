@@ -18,7 +18,7 @@ El programa permite:
 - Calcular la bonificación y el descuento según la categoría.
 - Calcular el valor final a pagar.
 - Calcular el valor total de los pagos.
-- Almacenar los empleados utilizando estructuras de datos como `ArrayList` y `HashMap`.
+- Almacenar los empleados utilizando `ArrayList` y `HashMap`.
 - Mostrar la información de los empleados registrados.
 
 En este ejercicio se aplican conceptos como:
@@ -56,11 +56,28 @@ La clase `ProductoDescuento` hereda características de la clase `Productos` y a
 
 ---
 
-### 3. Laboratorio12
+### 3. Encapsulamiento
+
+En esta carpeta se encuentra un ejercicio enfocado en el concepto de **encapsulamiento** en Programación Orientada a Objetos.
+
+Se trabaja con atributos privados y métodos públicos para controlar el acceso y la modificación de los datos de los objetos.
+
+En este ejercicio se aplican conceptos como:
+
+- Encapsulamiento.
+- Atributos `private`.
+- Métodos `get` y `set`.
+- Clases y objetos.
+- Métodos.
+- Control y acceso a los datos.
+
+---
+
+### 4. Laboratorio12
 
 En esta carpeta se encuentra el ejercicio correspondiente al **Laboratorio 12**, desarrollado como parte de las actividades de aprendizaje.
 
-Aquí se encuentran los archivos y código utilizados para realizar las actividades propuestas en el laboratorio.
+Aquí se encuentran los archivos y códigos utilizados para realizar las actividades propuestas en el laboratorio.
 
 ---
 
